@@ -23,3 +23,5 @@ setInterval(() => {
     mn.style.transform = `rotateZ(${mm}deg)`;
     sc.style.transform = `rotateZ(${ss}deg)`;
 })
+
+// Developed By Mohammad Kiaei
